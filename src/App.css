@@ -6,10 +6,22 @@ input {
 }
 .kg-button {
 
-  min-width: 80px;
+  min-width: 8vw;
+
+}
+.button {
+
+  min-width: 1vw;
+}
+.icon {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+  
 }
 .kg-row {
 
-  margin: 10px 5px;
+   margin: 2vw 2vw; 
   
 }
